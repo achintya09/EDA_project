@@ -1,1 +1,1 @@
-AIR BNB booking analysis
+AIR BNB hotel booking analysis
